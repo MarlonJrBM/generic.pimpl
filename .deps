@@ -1,0 +1,4 @@
+# DO NOT DELETE
+
+obj/main.o: pimpl.hh MyClass.hh
+obj/MyClass.o: MyClass.hh pimpl.hh
